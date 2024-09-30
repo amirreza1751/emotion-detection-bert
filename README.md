@@ -5,3 +5,6 @@
 to predict emotional profiles from text inputs. Specifically, we utilize a pretrained BERT model combined with regression techniques to predict the valence, arousal, and dominance dimensions of emotions.</p>
 
 <a href="https://drive.google.com/drive/folders/1rWHpUVI4P5DN6R-B046130gpX0dBDNLl?usp=drive_link"> Download the model and the slides here. </a>
+
+
+<a href="https://www.kaggle.com/code/amirrezadashtigenave/the-good-the-bad-and-the-ugly"> Link to my kaggle notebook.</a>
